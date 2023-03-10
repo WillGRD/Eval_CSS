@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+}
+
+header nav ul li a {
+    padding: 41px 20px;
+    display: block;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.firstp {
+    margin-bottom: 30px;
+}
+
+h1 {
+    max-width: 1400px;
+    margin: auto;
+    margin-top: 112px;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+header {
+    background-color: #345765;
+}
+
+nav {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    max-width: 1400px;
+
+
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+
+}
+
+h1 {
+    color: #34A58A;
+}
+
+.imgheader {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    max-width: 1400px;
+    padding-bottom: 100px;
+
+}
+
+
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.email {
+    display: flex;
+}
+
+.pos {
+    display: flex;
+    padding-right: 20px;
+
+}
+
+.tel {
+    display: flex;
+}
+
+.global {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.lienfoot1 {
+    list-style: none;
+    display: flex;
+}
+
+.global {
+    display: flex;
+}
+
+footer {
+    background-color: #345765;
+
+    justify-content: center;
+    color: #FFFFFF;
+    flex-direction: column;
+}
+
+.firstp {
+    max-width: 1400px;
+}
+
+body {
+    background-color: #E6EBEF;
+}
+
+
+
+.log,.tele,.mail {
+    margin-top: 15px;
+    margin-right: 15px;
+
+}
+
+.pos p{
+    color: #34A58A;
+}
+
+.eemail{
+    color: #34A58A;
+}
+
+.num{
+    color: #34A58A;
+}
+
+.tele {
+    margin-top: 10px;
+    width: 21.8px;
+    height: 20.87px;
+}
+
+.mail {
+    width: 25.12px;
+    height: 20px;
+}
+
+
+.log {
+    width: 16.33px;
+    height: 20.2px;
+}
+
+main {
+    padding-bottom: 130px;
+}
+
+.map {
+    margin-right: 0 auto;
+    display: flex;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.logofoot {
+    display: flex;
+    align-items: center
+}
+
+h2 {
+    color: #6B5B54;
+}
